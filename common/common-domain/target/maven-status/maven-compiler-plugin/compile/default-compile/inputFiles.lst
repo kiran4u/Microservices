@@ -1,0 +1,14 @@
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\event\DomainEvent.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\entity\AggregateRoot.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\entity\BaseEntity.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\RestaurantId.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\OrderId.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\Money.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\exception\DomainException.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\OrderStatus.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\CustomerId.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\PaymentStatus.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\OrderApprovalStatus.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\ProductId.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\event\publisher\DomainEventPublisher.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\BaseId.java

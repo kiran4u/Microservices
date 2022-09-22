@@ -1,0 +1,15 @@
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\OrderDomainService.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\OrderDomainServiceImpl.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\event\OrderEvent.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\entity\Customer.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\event\OrderPaidEvent.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\valueobject\StreetAddress.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\entity\OrderItem.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\entity\Product.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\valueobject\OrderItemId.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\entity\Restaurant.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\event\OrderCancelledEvent.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\exception\OrderDomainException.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\event\OrderCreatedEvent.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\entity\Order.java
+C:\Personal\Courses\SpringBoot_Practice\food-ordering-system\order-service\order-domain\order-domain-core\src\main\java\com\food\ordering\system\order\service\domain\valueobject\TrackingId.java
